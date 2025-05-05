@@ -1,0 +1,3 @@
+server_addr: localhost:50051
+agent_id: 6
+report_interval_seconds: 5
